@@ -188,4 +188,3 @@ default option file은 my.cnf 파일이라고 부른다. MariaDB는 옵션 파�
 
 
 
-1111
