@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [OS 정리](README.md)
 * [Vi](vi.md)
 * [apt-get](apt-get.md)
 * [ifconfig](ifconfig.md)
